@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MiskoBT/System/Include/HC05_macros&apos; to &apos;HC05_macros.h&apos;" description="Rename resource &apos;HC05_macros&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="System/Include/HC05_macros" name="HC05_macros.h" stamp="1652553986482" updateReferences="true"/>
+</session>

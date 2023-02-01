@@ -1,0 +1,15 @@
+../Application/objects.c:84:6:OBJ_init	8	static
+../Application/objects.c:123:6:OBJ_init_canvas	4	static
+../Application/objects.c:171:6:OBJ_init_splash_screen	8	static
+../Application/objects.c:196:6:OBJ_init_background	8	static
+../Application/objects.c:234:6:OBJ_init_game_over_sprite	8	static
+../Application/objects.c:259:6:OBJ_init_press_any_key_sprite	8	static
+../Application/objects.c:283:6:OBJ_init_digit_sprites	8	static
+../Application/objects.c:352:6:OBJ_init_arduinos	8	static
+../Application/objects.c:446:6:OBJ_init_crosshair	8	static
+../Application/objects.c:480:6:OBJ_init_score_box_title	4	static
+../Application/objects.c:497:6:OBJ_set_score_text_value	16	static
+../Application/objects.c:507:6:OBJ_init_score_text	8	static
+../Application/objects.c:527:6:OBJ_init_time_box_title	4	static
+../Application/objects.c:549:6:OBJ_init_timeout_bar	4	static
+../Application/objects.c:573:6:OBJ_set_timeout_bar_value	16	static

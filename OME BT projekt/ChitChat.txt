@@ -1,0 +1,3 @@
+HC05 
+RX/TX -> USART 1
+StatePin -> PWM 2 (PF7)

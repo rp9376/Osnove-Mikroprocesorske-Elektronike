@@ -1,0 +1,13 @@
+../System/HC05.c:20:6:BT_init	24	static
+../System/HC05.c:28:6:BT_test	16	static
+../System/HC05.c:35:6:BT_Connect	8	static
+../System/HC05.c:45:6:BT_Disconnect	16	static
+../System/HC05.c:55:6:MouseMoveClickWheel	32	static
+../System/HC05.c:72:6:SendDataByte	24	static
+../System/HC05.c:90:6:SendSingleDataByte	24	static
+../System/HC05.c:104:6:SendKey	32	static
+../System/HC05.c:122:6:SendKeyCode	16	static
+../System/HC05.c:128:6:SendKeyCode_Mod	16	static
+../System/HC05.c:135:6:SendString	24	static
+../System/HC05.c:140:6:SendCharAddr	16	static
+../System/HC05.c:145:6:SendChar	16	static

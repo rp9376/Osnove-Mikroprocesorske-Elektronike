@@ -1,0 +1,16 @@
+stm32g4xx_ll_usart.h:2992:26:LL_USART_IsActiveFlag_RXNE_RXFNE	16	static
+stm32g4xx_ll_usart.h:3019:26:LL_USART_IsActiveFlag_TXE_TXFNF	16	static
+stm32g4xx_ll_usart.h:4253:25:LL_USART_ReceiveData8	16	static
+stm32g4xx_ll_usart.h:4276:22:LL_USART_TransmitData8	16	static
+SCI.c:97:6:SCI_init	8	static
+SCI.c:150:6:SCI_send_char	16	static
+SCI.c:171:6:SCI_send_byte	16	static
+SCI.c:200:6:SCI_send_string	24	static
+SCI.c:223:6:SCI_send_bytes	24	static
+SCI.c:242:9:SCI_is_data_waiting	8	static
+SCI.c:260:18:SCI_read_char	16	static
+SCI.c:298:18:SCI_read_byte	16	static
+SCI.c:344:5:_write	24	static
+SCI.c:383:6:SCI_demo_Hello_world	8	static
+SCI.c:402:6:SCI_demo_Hello_world_printf	16	static
+SCI.c:423:6:SCI_demo_echo_with_polling	32	static
