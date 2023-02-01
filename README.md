@@ -1,2 +1,4 @@
 # Osnove-Mikroprocesorske-Elektronike
-Vaje Osnove Mikroprocesorske elektronike (OME)
+
+Vaje predmeta OME
+STM32 CUBE ide (Miško3)
